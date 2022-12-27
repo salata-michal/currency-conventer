@@ -6,6 +6,7 @@
 
 https://salata-michal.github.io/currency-conventer/
 
-## Opis
+## description
 
-*Strona przedstawia prosty kalkulator walut. Jego przeznaczeniem jest szybkie obliczenie złotówki na inne waluty np na dolar amerykański bądź frank szwajcarski*
+*The site presents a simple currency calculator.
+Its purpose is to quickly calculate the zloty to other currencies, e.g. to the US dollar or Swiss franc*
