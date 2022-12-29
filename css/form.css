@@ -1,3 +1,13 @@
+.form {
+    font-family: "Montserrat", sans-serif;
+    max-width: 600px;
+    margin: 30px auto;
+    padding: 10px 20px;
+    border: 5px double hsl(146, 3%, 43%);
+    border-radius: 10px;
+    background-color: hwb(136 45% 44%);
+}
+
 .form__labelText {
     width: 100%;
     max-width: 150px;
@@ -14,28 +24,28 @@
 }
 
 .form__field:required {
-    border-color: rgb(175, 167, 169);
+    border-color: rgb(107, 114, 110);
 }
 
 .form__button {
     width: 100%;
     border: none;
-    background-color: hsl(180, 100%, 30%);
+    background-color: hsl(146, 3%, 43%);
     color: white;
     padding: 10px;
     border-radius: 5px;
 }
 
 .form__button:hover {
-    background-color: hsl(180, 97%, 35%);
+    background-color: hsl(146, 3%, 55%);
 }
 
 .form__button:active {
-    background-color: hsl(180, 99%, 45%);
+    background-color: hsl(146, 3%, 63%);
 }
 
 .form__field:invalid {
-    background-color: hsl(7, 52%, 88%);
+    background-color: hsl(7, 37%, 86%);
 }
 
 .form__button--reset {
@@ -50,7 +60,7 @@
 }
 
 .form__legend {
-    background-color: hsl(180, 100%, 30%);
+    background-color: hsl(146, 3%, 43%);
     color: white;
     border-radius: 5px;
     padding: 10px;
