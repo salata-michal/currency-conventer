@@ -2,7 +2,8 @@
 
 ## Demo
 
-![giphy](https://user-images.githubusercontent.com/120677379/208510786-537591b8-4565-47c1-a284-0bebd1329a57.gif)
+![giphy](https://user-images.githubusercontent.com/120677379/210003887-4a7c51de-fd15-41bf-a380-d0cd354c0445.gif)
+
 
 https://salata-michal.github.io/currency-conventer/
 
